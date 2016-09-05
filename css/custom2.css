@@ -1,0 +1,32 @@
+.leftSearchDiv{
+    background: url("../image/9.png");
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    padding-bottom: 140px;
+}
+.rightSearchDiv{
+
+    background: url("../image/8.png");
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    padding-bottom: 140px;
+}
+
+.leftSearchDiv h4{
+    margin-left: 258px;
+    direction: rtl;
+}
+.centerSearchDiv{
+    padding: 15px;
+}
+.rightSearchAroow{
+    margin-top: -79px;
+}
+.leftSearchAroow{
+    margin-top: -5px;
+}
+
+.centerSearchDiv input{
+    margin-left: 44px;
+    text-align: center;
+}
